@@ -16,6 +16,6 @@ A website showcasing a collection of photos.
 ## Author: 
 - Uy Vo 
 - Miles Chao
-- Nestor Reategui 
 - Robin Dunne
+- Nestor Reategui 
 ## California State University, Fullerton.
